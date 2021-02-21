@@ -1,0 +1,15 @@
+@import './style/cssNull.scss';
+
+.wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
+
+.test-block {
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
